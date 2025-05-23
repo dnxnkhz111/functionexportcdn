@@ -1,1 +1,3 @@
-alert("aaa")
+function Test() {
+  alert("aaa")
+}
