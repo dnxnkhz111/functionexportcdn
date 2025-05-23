@@ -1,4 +1,4 @@
 function Test() {
-  alert("abcde");
-  alert("edcba");
+  alert("abcdef");
+  alert("fedcba");
 }
