@@ -1,4 +1,4 @@
 function Test() {
-  alert("aaaa");
-  alert("bbbb");
+  alert("abcd");
+  alert("dcba");
 }
